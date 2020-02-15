@@ -368,3 +368,14 @@ bt {
 .credits {
   color: #999;
 }
+
+.icon{
+  border-radius: 130px;
+  border: white 5px solid ;
+  box-shadow: 0 0 20px gray;
+  
+}
+
+.desc {
+  padding-top: 50px;
+}
